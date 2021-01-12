@@ -1,0 +1,6 @@
+Resolution results with perfect matching
+Precision (Resolution) = 0.9571428571428572
+Recall (Resolution) = 0.9436619718309859
+Resolution results with partial matching
+Precision (Resolution) = 0.9855072463768116
+Recall (Resolution) = 0.9714285714285714
